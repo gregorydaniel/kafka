@@ -20,3 +20,4 @@ terraform.tfstate
 terraform.tfstate.backup
 junit*
 /.DS_Store
+/code
